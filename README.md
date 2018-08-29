@@ -1,4 +1,4 @@
-# Working with APIs and Nested Data Structures
+gem install rest-client# Working with APIs and Nested Data Structures
 
 ## Objectives
 
